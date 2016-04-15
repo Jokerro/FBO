@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Camera.cpp
+d:\game_dev\gameloftcourse\fire\utilities\esUtil.h(2): fatal error C1083: Не удается открыть файл включение: GLES2/gl2.h: No such file or directory
+  NewTrainingFramework.cpp
+d:\game_dev\gameloftcourse\fire\utilities\esUtil.h(2): fatal error C1083: Не удается открыть файл включение: GLES2/gl2.h: No such file or directory
+  Shaders.cpp
+d:\game_dev\gameloftcourse\fire\utilities\esUtil.h(2): fatal error C1083: Не удается открыть файл включение: GLES2/gl2.h: No such file or directory
